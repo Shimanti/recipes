@@ -1,4 +1,6 @@
 # recipes
-App that retrieves recipes based on a search criteria such as "chicken".
-Searches through the Edamom website.
-Edamom is a website that aggregates recipes and provides an API to access their data.
+App in development to:
+- scrape an online Indian Cookbook for recipes
+- put all recipes into a MongoDB
+- use React to pull the recipes into a front-end
+- build a form to create new recipes and add to the MongoDB
