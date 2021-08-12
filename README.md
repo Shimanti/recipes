@@ -1,5 +1,5 @@
 # Indian Cookbook
 
-- scraped a PDF Indian Cookbook for recipes using Python
-- put all recipes into an API
-- used React to pull the recipes into a front-end
+- React front-end to pull recipes from my Mom's Indian Cookbook
+- Pulls from an API
+- API was pulled from a 1996 20-page PDF cookbook
