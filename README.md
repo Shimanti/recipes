@@ -1,6 +1,5 @@
-# recipes
-App in development to:
-- scrape an online Indian Cookbook for recipes
-- put all recipes into a MongoDB
-- use React to pull the recipes into a front-end
-- build a form to create new recipes and add to the MongoDB
+# Indian Cookbook
+
+- scraped a PDF Indian Cookbook for recipes using Python
+- put all recipes into an API
+- used React to pull the recipes into a front-end
