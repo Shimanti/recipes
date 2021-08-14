@@ -8,7 +8,7 @@ import {useEffect, useState} from "react"
 import Recipe from './Recipe'
 
 // change URL if the API location changes
-const URL = `http://localhost:8000/api/recipes`
+const URL = `https://shrouded-beach-12811.herokuapp.com/api/recipes`
 
 // app searches and retrieves recipes from the API
 const App = ()=> {
